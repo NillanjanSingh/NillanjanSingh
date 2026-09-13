@@ -1,6 +1,6 @@
 # Hey, I'm Nillanjan Singh 👋
 
-### AI Engineer · Quant Enthusiast · Systems Builder
+### AI Engineering · Quant Enthusiast · Systems Engineering
 
 I'm a **Computer Science undergraduate at IIT Tirupati** interested in building systems at the intersection of **AI, quantitative finance, and low-level engineering**.
 
@@ -96,7 +96,6 @@ Working on quantitative trading models designed to identify market inefficiencie
   <img src="https://img.shields.io/badge/Systems_Programming-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Systems Programming" />
   <img src="https://img.shields.io/badge/Full--Stack_Development-000000?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Development" />
 </p>
----
 
 ## 📚 Interested In
 
