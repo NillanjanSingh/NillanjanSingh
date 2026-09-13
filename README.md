@@ -4,10 +4,6 @@
 
 I'm a **Computer Science undergraduate at IIT Tirupati** interested in building systems at the intersection of **AI, quantitative finance, and low-level engineering**.
 
-I like going beyond abstractions — from building **RAG applications and ML pipelines** to implementing **vector search engines, CPU simulators, and quantitative trading systems**.
-
-Currently, I'm working as a **Quantitative Research Consultant at WorldQuant**, developing and evaluating quantitative trading models.
-
 ---
 
 ## 💼 Currently
@@ -104,12 +100,11 @@ Working on quantitative trading models designed to identify market inefficiencie
 
 ## 📚 Interested In
 
+* Software Engineering
 * AI agents and LLM systems
-* Retrieval-Augmented Generation
 * Quantitative research
 * Machine learning for financial markets
 * High-performance C++
-* Computer architecture
 * Systems programming
 * Distributed and real-time systems
 
